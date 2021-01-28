@@ -19,3 +19,4 @@ At the moment it will be singleplayer mainly used for someone who wants an easie
 
 There will also be a stats view where you can keep track of your good and bad questions and what topic you should focus on.
 
+I will definetely use this app and I hope many others will aswell.
